@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Icon } from '@iconify-icon/react';
 import AOS from 'aos';
-import '../../public/aos-master/dist/aos.css'
+import 'aos/dist/aos.css';
 
 const Header = () => {
 
