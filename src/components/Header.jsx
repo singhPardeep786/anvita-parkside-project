@@ -117,11 +117,11 @@ const Header = () => {
                 <a className="nav-link links ms-lg-2" href="#overview">Overview</a>
               </li>
               <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="200">
-                <a className="nav-link links ms-lg-2" href="#masterplan">Master Plan</a>
+                <a className="nav-link links ms-lg-2" href="#masterplan">All Plans</a>
               </li>
-              <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="250">
+              {/* <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="250">
                 <a className="nav-link links ms-lg-2" href="#floorplan">floor plans</a>
-              </li>
+              </li> */}
               <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="300">
                 <a className="nav-link links ms-lg-2" href="#amenities">Amenities</a>
               </li>
@@ -133,9 +133,9 @@ const Header = () => {
               <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="350">
                 <a className="nav-link links ms-lg-2" href="#clubhouse">Clubhouse</a>
               </li>
-              <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="400">
+              {/* <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="400">
                 <a className="nav-link links ms-lg-2" href="#homes">Luxury Homes</a>
-              </li>
+              </li> */}
               <li className="nav-item nav_animation" data-aos="zoom-in" data-aos-delay="450">
                 <a className="nav-link links ms-lg-2" href="#location">Location</a>
               </li>
