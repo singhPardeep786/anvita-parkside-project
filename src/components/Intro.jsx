@@ -102,7 +102,7 @@ const Intro = () => {
                               autoplay={{
                                 delay: 2700,
                                 disableOnInteraction: false,
-                                pauseOnMouseEnter: false,
+                                pauseOnMouseEnter: true,
                               }}
                               loop={true}
                             >
