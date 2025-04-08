@@ -55,12 +55,12 @@ const Footer = () => {
                 </a>
               </div>
 
-              <div className="d-flex flex-column gap-2 mb-3">
+              {/* <div className="d-flex flex-column gap-2 mb-3">
                 <div className="scanner">
                   <img src="./images/scan_qr.jpg" className="w-100" alt="Footer scanner" />
                 </div>
                 <h5>Scan for location</h5>
-              </div>
+              </div> */}
             </div>
 
             <div className="col">
